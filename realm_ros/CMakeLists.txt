@@ -72,6 +72,7 @@ find_package(OpenMP REQUIRED)
 #find_package(ORB_SLAM3 REQUIRED)
 #find_package(ov2slam REQUIRED)
 
+find_package(fbow REQUIRED)
 find_package(VTK REQUIRED)
 find_package(Eigen3 3.3 REQUIRED NO_MODULE)
 
